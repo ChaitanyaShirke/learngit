@@ -2,10 +2,3 @@
 1B-to perform version control using git
 	a- initialization
 	b- add
-	c- commit
-	d- pull
-	e- push 
-	f- branching
-	g- merging
-	h- rebranching
-	
